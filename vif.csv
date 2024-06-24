@@ -1,0 +1,20 @@
+feature,                                VIF
+const,                                  30.767966473914644
+search_weekday,                         1.0011493509142935
+depart_weekday,                         1.0076060350322016
+number_of_changes_category_1,           1.8345203705253126
+number_of_changes_category_2,           2.5128651117855414
+number_of_changes_category_3+,          1.6421667491556566
+airline_category_Azimut,                1.991552949022734
+airline_category_Nordwind Airlines,     1.5201873306748106
+airline_category_Other,                 1.95615204953816
+airline_category_Pegasus Airlines,      1.946393284326773
+airline_category_Pobeda,                1.779132371060006
+airline_category_S7 Airlines,           2.0783930289530974
+airline_category_Turkish Airlines,      2.361369260257928
+airline_category_Uzbekistan Airways,    2.403659635907634
+destination_category_culture,           3.6076051604990735
+destination_category_domestic,          5.377524029762622
+destination_category_tourism,           3.591784328715441
+diff_days,                              1.1888857583411896
+distance,                               1.4030833062129073
